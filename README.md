@@ -1,2 +1,6 @@
 # Swift_2.2_Chinese_Version
 Swift2.2 zh_Cn translation! (Swift_2.2_Chinese_Version)
+...
+...
+
+* [Swift_Programming_Language](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/index.html)  
