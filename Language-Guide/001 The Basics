@@ -1,9 +1,9 @@
 # The Basics
 
 ...
-...  
+...
 
-* [The Basics](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html)
+* [The Basics](https://github.com/xgqfrms/Swift_2.2_Chinese_Version/blob/master/Language-Guide/001%20The%20Basics.md)
 
 >>
 
@@ -641,5 +641,5 @@ Assertions cause your app to terminate and are not a substitute for designing yo
 
 >>
 
-* [A Swift Tour](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/GuidedTour.html#//apple_ref/doc/uid/TP40014097-CH2-ID1)
-* [Basic Operators](https://developer.apple.com/library/ios/documentation/Swift/Conceptual/Swift_Programming_Language/BasicOperators.html#//apple_ref/doc/uid/TP40014097-CH6-ID60)
+* [A Swift Tour](https://github.com/xgqfrms/Swift_2.2_Chinese_Version/blob/master/Welcome-to-Swift/A%20Swift%20Tour.md)
+* [Basic Operators](https://github.com/xgqfrms/Swift_2.2_Chinese_Version/blob/master/Language-Guide/002%20Basic%20Operators.md)
