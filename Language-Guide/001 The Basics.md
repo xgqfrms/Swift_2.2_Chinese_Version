@@ -9,7 +9,9 @@
 
 Swift is a new programming language for iOS, OS X, watchOS, and tvOS app development.  
 
-Swift 是Apple为了开发iOS，OS X，watchOS 和 tvOS 而推出的一种全新的编程语言。
+Swift 是Apple为了开发iOS，OS X，watchOS 和 tvOS 应用程序而推出的一种全新的编程语言。  
+ 
+(Swift 是开发iOS，OS X，watchOS 和 tvOS 应用程序的一种全新的编程语言。)
 
 Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.  
 
