@@ -7,7 +7,13 @@
 
 >>
 
-Swift is a new programming language for iOS, OS X, watchOS, and tvOS app development. Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.
+Swift is a new programming language for iOS, OS X, watchOS, and tvOS app development.  
+
+Swift 是Apple为了开发iOS，OS X，watchOS 和 tvOS 而推出的一种全新的编程语言。
+
+Nonetheless, many parts of Swift will be familiar from your experience of developing in C and Objective-C.  
+
+
 
 Swift provides its own versions of all fundamental C and Objective-C types, including Int for integers, Double and Float for floating-point values, Bool for Boolean values, and String for textual data. Swift also provides powerful versions of the three primary collection types, Array, Set, and Dictionary, as described in Collection Types.
 
